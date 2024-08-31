@@ -2,5 +2,5 @@
 ## Assuntos
 * UI/UX ✅
 * VERSIONAMENTO ✅
-* BACKEND ✅
-* FRONT END ✅
+* BACKEND
+* FRONT END
