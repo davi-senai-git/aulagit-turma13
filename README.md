@@ -3,5 +3,5 @@
 - Viciado em Jogos 🕹️
 - Canto e Produzo
 ## Redes Sociais
-[Instagram] (instagram.com/amoreutv) [Youtube] (youtube.com/@amoreutv) [Twitter] (x.com/amoreutv)
+[Instagram] (https://instagram.com/amoreutv) [Youtube] (https://youtube.com/@amoreutv) [Twitter] (https://x.com/amoreutv)
 ### "Ninguém vai me parar, nada mais vai me parar" 🎶
